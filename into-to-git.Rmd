@@ -1,6 +1,8 @@
 ---
 title: "Intro to git"
-output: html_document
+output: 
+  html_document:
+    css: styles.css
 ---
 
 # Intro to git
