@@ -1,9 +1,12 @@
 ---
 title: "Intro to git"
-output:
-  html_output:
+output: html_document
 ---
 
 # Intro to git
+this document is an intro to git
 
 ## Common commands
+
+- git init
+- git pull
